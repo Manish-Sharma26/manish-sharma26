@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://avatars.dicebear.com/api/identicon/manish-sharma26.svg" width="150" />
-</p>
-
 <h1 align="center">
-  Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manish Sharma
+  Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manish Sharma
 </h1>
 
 <p align="center">
@@ -25,7 +21,7 @@
 ## ⚡ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,unity,cs,python,opencv,firebase,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,unity,cs,python,opencv,firebase,git,github,vscode,c,java,androidstudio" />
 </div>
 
 ---
@@ -49,12 +45,6 @@
 
 ---
 
-## 🔥 Contribution Heatmap
-
-[![Manish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manish-sharma26&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 🎯 Fun Bits
 
 - 🧠 Problem-solving addict
@@ -66,6 +56,6 @@
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your-ms0417551@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/manish-sharma26"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
