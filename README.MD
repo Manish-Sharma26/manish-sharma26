@@ -29,11 +29,17 @@
 
 ## 🌟 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🎧 EchoStrike | Immersive stereo audio-based multiplayer game for visually impaired users. Uses motion sensors, ML-powered swing detection, real-time networking, and audio cues to simulate racket sports without visual dependency. | Android, Kotlin, Firebase, ML, Sensors, Wi-Fi Networking |
-| 🎮 Sign It or Miss It | Real-time gesture-based Unity game where players match hand gestures to pass through moving walls using real-time hand tracking and inverse kinematics. | Unity, OpenCV, Mediapipe, cvzone |
-| 📊 Aura Tracker | Full-stack student assignment manager with real-time task tracking and deadline management. | MERN stack |
+- 🎧 [**EchoStrike**](https://github.com/4SumHack36/EchoStrike) — Stereo audio-based multiplayer game for visually impaired users.  
+  _Built during Hack36 hackathon._  
+  **Tech:** Android, Kotlin, ML
+
+- 🎮 [**Sign It or Miss It**](https://github.com/4SumMNNIT/SIMI) — Real-time gesture-based Unity game.  
+  _Built during DevJam hackathon._  
+  **Tech:** Unity, OpenCV
+
+- 📊 [**Aura Tracker**](https://github.com/EnigmaTrio/AuraTracker) — Student assignment manager.  
+  _Built during Avishkar hackathon._  
+  **Tech:** MERN stack
 
 ---
 
