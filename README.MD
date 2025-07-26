@@ -13,16 +13,14 @@
 - 🔭 Building full-stack apps, games, and AI-powered tools.
 - 🎯 Tech Stack: MERN • Unity • Firebase • ML • OpenCV
 - 🎮 Love blending code + creativity
-- 📊 Working on system design, real-time ML, MERN full-stack apps.
-- 🌱 Exploring gesture tracking, and multiplayer networking.
-
+- 📊 Working on real-time ML, MERN full-stack apps.
 
 ---
 
 ## ⚡ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,unity,cs,python,opencv,firebase,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,unity,cs,python,opencv,firebase,git,github,vscode" />
 </div>
 
 ---
